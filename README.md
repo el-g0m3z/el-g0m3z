@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on cleaning up my Repo
+
 <!--
 **el-g0m3z/el-g0m3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
