@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on cleaning up my Repo
+- 🌱 I’m currently learning Advanced Analytics using Pandas and Jupyter Notebooks
+- 👯 I’m looking to collaborate on Social Data Analytics
+- 🤔 I’m looking for help with understanding the best framework for a small webapp
+- 💬 Ask me about Data Governance, Oaxaca, Mindfulness
+- 📫 How to reach me: @elg0m3z
+- 😄 Pronouns: he/him/el mero mero sabor ranchero
+- ⚡ Fun fact: Oaxaqueño de corazón, Austinita por espacio fisico
 
 <!--
 **el-g0m3z/el-g0m3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
